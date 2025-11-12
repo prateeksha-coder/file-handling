@@ -17,7 +17,7 @@ f1.close()
 f2.close()
 
 # opening first file in append mode and second file in read mode
-f1 = open(firstfile, 'a+')
+f1 = open(firstfile, 'a+') #a+ means append and read
 f2 = open(secondfile, 'r')
 
 # appending the contents of the second file to the first file
