@@ -13,4 +13,3 @@ Counter=len(CoList)
 	
 print("This is the number of lines in the file")
 print(Counter)
-
